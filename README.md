@@ -1,12 +1,8 @@
-
+[![Mktrs's github activity grap](https://github-readme-activity-graph.vercel.app/graph?username=aLmktr&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 aLmktr/aLmktr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
-
-streak status gonna be added later:)
-
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -14,11 +10,4 @@ streak status gonna be added later:)
     </a>
   </div>
   </p>
-
-
-<p align=center>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=almktr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-
 --->
